@@ -1,0 +1,3 @@
+/home/scferro/coral_hand_mouse/cpp/build/CMakeFiles/stereo_depth_vision.dir
+/home/scferro/coral_hand_mouse/cpp/build/CMakeFiles/edit_cache.dir
+/home/scferro/coral_hand_mouse/cpp/build/CMakeFiles/rebuild_cache.dir
